@@ -80,9 +80,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Newsletter', position: 'left'},
           {
             href: 'https://github.com/kc1508/piglins.web',
             label: 'GitHub',
