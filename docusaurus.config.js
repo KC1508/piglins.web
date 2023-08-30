@@ -76,13 +76,13 @@ const config = {
         },
         // items is a placeholder for now, this will be converted to Guilded
         items: [
+          {to: '/blog', label: 'Newsletter', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Newsletter', position: 'left'},
           {
             href: 'https://www.guilded.gg/Piglins',
             label: ' ',
