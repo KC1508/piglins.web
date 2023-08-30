@@ -84,9 +84,10 @@ const config = {
           },
           {to: '/blog', label: 'Newsletter', position: 'left'},
           {
-            href: 'https://github.com/kc1508/piglins.web',
-            label: 'GitHub',
+            href: 'https://www.guilded.gg/Piglins',
+            label: ' ',
             position: 'right',
+            className: "header-guilded-link",
           },
         ],
       },
