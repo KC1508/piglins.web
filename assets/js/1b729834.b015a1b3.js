@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3007],{2551:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/piglins.web/blog/tags/facebook","allTagsPath":"/piglins.web/blog/tags","count":1}')}}]);
