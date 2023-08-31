@@ -4,18 +4,38 @@
         <title>Piglins Blog</title>
         <link>https://kc1508.github.io/piglins.web/blog</link>
         <description>Piglins Blog</description>
-        <lastBuildDate>Sat, 01 Jan 2000 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 06:53:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[example]]></title>
-            <link>https://kc1508.github.io/piglins.web/blog/example</link>
-            <guid>https://kc1508.github.io/piglins.web/blog/example</guid>
-            <pubDate>Sat, 01 Jan 2000 00:00:00 GMT</pubDate>
-            <description><![CDATA[Content here. Maybe?]]></description>
-            <content:encoded><![CDATA[<p>Content here. Maybe?</p>]]></content:encoded>
-            <category>docusaurus</category>
+            <title><![CDATA[Update v1.0.1]]></title>
+            <link>https://kc1508.github.io/piglins.web/blog/update-xxxx</link>
+            <guid>https://kc1508.github.io/piglins.web/blog/update-xxxx</guid>
+            <pubDate>Thu, 31 Aug 2023 06:53:20 GMT</pubDate>
+            <description><![CDATA[Content here.]]></description>
+            <content:encoded><![CDATA[<p>Content here.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="issues">Issues?<a href="#issues" class="hash-link" aria-label="Direct link to Issues?" title="Direct link to Issues?">​</a></h3><p>Report any bugs or problems on our <a href="https://www.guilded.gg/Piglins" target="_blank" rel="noopener noreferrer">Guilded Server</a>.</p>]]></content:encoded>
+            <category>server updates</category>
+        </item>
+        <item>
+            <title><![CDATA[Update v1.0.0]]></title>
+            <link>https://kc1508.github.io/piglins.web/blog/update-0822</link>
+            <guid>https://kc1508.github.io/piglins.web/blog/update-0822</guid>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Content here.]]></description>
+            <content:encoded><![CDATA[<p>Content here.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="issues">Issues?<a href="#issues" class="hash-link" aria-label="Direct link to Issues?" title="Direct link to Issues?">​</a></h3><p>Report any bugs or problems on our <a href="https://www.guilded.gg/Piglins" target="_blank" rel="noopener noreferrer">Guilded Server</a>.
+<img loading="lazy" alt="Newsletter Image" src="/piglins.web/assets/images/1.0.0-3e52993441a6e99fdd3ddd8367a438ea.png" width="1400" height="500" class="img_ev3q"></p>]]></content:encoded>
+            <category>server updates</category>
+        </item>
+        <item>
+            <title><![CDATA[Alpha Roadmap]]></title>
+            <link>https://kc1508.github.io/piglins.web/blog/roadmap-0820</link>
+            <guid>https://kc1508.github.io/piglins.web/blog/roadmap-0820</guid>
+            <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Content here.]]></description>
+            <content:encoded><![CDATA[<p>Content here.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="issues">Issues?<a href="#issues" class="hash-link" aria-label="Direct link to Issues?" title="Direct link to Issues?">​</a></h3><p>Report any bugs or problems on our <a href="https://www.guilded.gg/Piglins" target="_blank" rel="noopener noreferrer">Guilded Server</a>.
+<img loading="lazy" alt="Newsletter Image" src="/piglins.web/assets/images/roadmap-e956a9340960d9eef5b5e28ffa7c138c.png" width="1400" height="500" class="img_ev3q"></p>]]></content:encoded>
+            <category>roadmap</category>
         </item>
     </channel>
 </rss>

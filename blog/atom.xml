@@ -2,22 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kc1508.github.io/piglins.web/blog</id>
     <title>Piglins Blog</title>
-    <updated>2000-01-01T00:00:00.000Z</updated>
+    <updated>2023-08-31T06:53:20.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kc1508.github.io/piglins.web/blog"/>
     <subtitle>Piglins Blog</subtitle>
     <icon>https://kc1508.github.io/piglins.web/img/piglins.ico</icon>
     <entry>
-        <title type="html"><![CDATA[example]]></title>
-        <id>https://kc1508.github.io/piglins.web/blog/example</id>
-        <link href="https://kc1508.github.io/piglins.web/blog/example"/>
-        <updated>2000-01-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Content here. Maybe?]]></summary>
-        <content type="html"><![CDATA[<p>Content here. Maybe?</p>]]></content>
+        <title type="html"><![CDATA[Update v1.0.1]]></title>
+        <id>https://kc1508.github.io/piglins.web/blog/update-xxxx</id>
+        <link href="https://kc1508.github.io/piglins.web/blog/update-xxxx"/>
+        <updated>2023-08-31T06:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Content here.]]></summary>
+        <content type="html"><![CDATA[<p>Content here.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="issues">Issues?<a href="#issues" class="hash-link" aria-label="Direct link to Issues?" title="Direct link to Issues?">​</a></h3><p>Report any bugs or problems on our <a href="https://www.guilded.gg/Piglins" target="_blank" rel="noopener noreferrer">Guilded Server</a>.</p>]]></content>
         <author>
             <name>KC1508</name>
-            <uri>https://github.com/KC1508</uri>
         </author>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="server updates" term="server updates"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update v1.0.0]]></title>
+        <id>https://kc1508.github.io/piglins.web/blog/update-0822</id>
+        <link href="https://kc1508.github.io/piglins.web/blog/update-0822"/>
+        <updated>2023-08-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Content here.]]></summary>
+        <content type="html"><![CDATA[<p>Content here.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="issues">Issues?<a href="#issues" class="hash-link" aria-label="Direct link to Issues?" title="Direct link to Issues?">​</a></h3><p>Report any bugs or problems on our <a href="https://www.guilded.gg/Piglins" target="_blank" rel="noopener noreferrer">Guilded Server</a>.
+<img loading="lazy" alt="Newsletter Image" src="/piglins.web/assets/images/1.0.0-3e52993441a6e99fdd3ddd8367a438ea.png" width="1400" height="500" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>KC1508</name>
+        </author>
+        <category label="server updates" term="server updates"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha Roadmap]]></title>
+        <id>https://kc1508.github.io/piglins.web/blog/roadmap-0820</id>
+        <link href="https://kc1508.github.io/piglins.web/blog/roadmap-0820"/>
+        <updated>2023-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Content here.]]></summary>
+        <content type="html"><![CDATA[<p>Content here.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="issues">Issues?<a href="#issues" class="hash-link" aria-label="Direct link to Issues?" title="Direct link to Issues?">​</a></h3><p>Report any bugs or problems on our <a href="https://www.guilded.gg/Piglins" target="_blank" rel="noopener noreferrer">Guilded Server</a>.
+<img loading="lazy" alt="Newsletter Image" src="/piglins.web/assets/images/roadmap-e956a9340960d9eef5b5e28ffa7c138c.png" width="1400" height="500" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>KC1508</name>
+        </author>
+        <category label="roadmap" term="roadmap"/>
     </entry>
 </feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[207],{8089:e=>{e.exports=JSON.parse('[{"label":"server updates","permalink":"/piglins.web/blog/tags/server-updates","count":2},{"label":"roadmap","permalink":"/piglins.web/blog/tags/roadmap","count":1}]')}}]);

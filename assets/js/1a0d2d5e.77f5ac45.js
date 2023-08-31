@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[803],{2674:i=>{i.exports=JSON.parse('{"title":"Joining","slug":"/category/joining","permalink":"/piglins.web/docs/category/joining","navigation":{"next":{"title":"On Java","permalink":"/piglins.web/docs/joining/java"}}}')}}]);

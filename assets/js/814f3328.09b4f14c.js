@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Update v1.0.1","permalink":"/piglins.web/blog/update-xxxx"},{"title":"Update v1.0.0","permalink":"/piglins.web/blog/update-0822"},{"title":"Alpha Roadmap","permalink":"/piglins.web/blog/roadmap-0820"}]}')}}]);
